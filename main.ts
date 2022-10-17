@@ -1,4 +1,17 @@
 basic.showNumber(5)
+basic.showNumber(4)
+basic.showNumber(3)
+basic.showNumber(2)
+basic.showNumber(1)
+basic.pause(1000)
+basic.showIcon(IconNames.Sad)
+basic.showString("BOOM!")
+basic.showIcon(IconNames.SmallSquare)
+basic.showIcon(IconNames.Square)
+basic.showIcon(IconNames.SmallSquare)
+basic.showIcon(IconNames.Square)
+basic.showIcon(IconNames.SmallSquare)
+basic.showIcon(IconNames.Square)
 basic.forever(function () {
 	
 })
